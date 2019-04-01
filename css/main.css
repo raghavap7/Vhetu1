@@ -3005,7 +3005,7 @@ html[lang=fr] .intro .rail-2 {
     padding-top: 70px;
     padding-bottom: 70px;
     padding-left: 30px !important;
-    padding-right: 30px;
+    padding-right:135px;
     position: relative;
     }
 .content-section header {}
@@ -3022,8 +3022,7 @@ html[lang=fr] .intro .rail-2 {
 }
 @media (max-width: 767px) {
     .content-section {
-    padding-top: 38px;
-    padding-bottom: 29px}
+    padding:30px;}
 .content-section header {
     margin-bottom: 55px}
 .case-study .content-section header: only-child {
