@@ -26,7 +26,7 @@ article,aside,footer,header,nav,section {
 
 .logo{
 	z-index:999;
-	width: 200px;
+	width: 400px;
 	
 }
 
@@ -3520,7 +3520,8 @@ html[lang=fr] .graph-process .item-8 p {
     left: -36px}
 }
 .section-clients header {
-    margin-bottom: 50px}
+    margin-bottom: 50px:
+	display:inline-block;}
 @media (max-width: 767px) {
     .section-clients {
     margin-bottom: 10px}
@@ -5463,6 +5464,10 @@ a:link{text-decoration:none;}
     padding-left: 25px;
     position: static;
 }
+.logo{
+	width:200px !important;
+	
+}
 .intro h2 {
     margin-left: -5px;
     font-size: 12px !important;
@@ -5480,3 +5485,4 @@ a:link{text-decoration:none;}
     padding: 10px 0px;
 	text-align:center;
 }
+
